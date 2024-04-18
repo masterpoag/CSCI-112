@@ -1,0 +1,215 @@
+Charity: American Blessings (AB)
+Their overall charitable score is 2.46%
+These are the 15 Donors of American Blessings:
+	Name: Linda Collins           Hometown: Senatobia MS        Charity Scale: 1.65%
+	Name: Yvonne Button           Hometown: Shreveport LA       Charity Scale: 2.28%
+	Name: Beth Clayburn           Hometown: Hendersonville NC   Charity Scale: 2.30%
+	Name: Susan Gonzalez          Hometown: Memphis TN          Charity Scale: 2.33%
+	Name: Tamara Wright           Hometown: Newton MS           Charity Scale: 2.35%
+	Name: Katie Jacobson          Hometown: Arlington TX        Charity Scale: 2.40%
+	Name: Kathleen Richards       Hometown: Guntown MS          Charity Scale: 2.45%
+	Name: Diane Lang              Hometown: Irving TX           Charity Scale: 2.45%
+	Name: Eva Bridge              Hometown: Chattanooga TN      Charity Scale: 2.49%
+	Name: Kimberly Chavez         Hometown: Oxford MS           Charity Scale: 2.50%
+	Name: Carol Smith             Hometown: Biloxi MS           Charity Scale: 2.50%
+	Name: Laura Cassady           Hometown: LaGrange GA         Charity Scale: 2.70%
+	Name: Puala Dill              Hometown: Vicksburg MS        Charity Scale: 2.75%
+	Name: Melissa Janke           Hometown: Memphis TN          Charity Scale: 2.80%
+	Name: Michelle Boal           Hometown: Madison MS          Charity Scale: 2.95%
+Charity: Better Environmental Health (BEH)
+Their overall charitable score is 1.92%
+These are the 13 Donors of Better Environmental Health:
+	Name: Donna Perez             Hometown: Gainesville FL      Charity Scale: 1.05%
+	Name: Bethany Schoemaker      Hometown: Marietta GA         Charity Scale: 1.45%
+	Name: Helen Baker             Hometown: Baton Rouge LA      Charity Scale: 1.50%
+	Name: Pam Pendleton           Hometown: Baldwyn MS          Charity Scale: 1.65%
+	Name: Jacqueline Kilmer       Hometown: Hazlehurst MS       Charity Scale: 1.75%
+	Name: Michelle Stegall        Hometown: Monroe LA           Charity Scale: 2.00%
+	Name: Cheryl Green            Hometown: Greenville SC       Charity Scale: 2.10%
+	Name: Michelle Fudge          Hometown: Vicksburg MS        Charity Scale: 2.19%
+	Name: Jessie Nicolls          Hometown: Biloxi MS           Charity Scale: 2.20%
+	Name: Sarah Michaels          Hometown: LaGrange GA         Charity Scale: 2.22%
+	Name: Amber Russo             Hometown: Greenville SC       Charity Scale: 2.25%
+	Name: Amber Jacobs            Hometown: Clarksdale MS       Charity Scale: 2.28%
+	Name: Violet Rotten           Hometown: Metairie LA         Charity Scale: 2.33%
+Charity: Zebra Admiration Members (ZAM)
+Their overall charitable score is 3.19%
+These are the 18 Donors of Zebra Admiration Members:
+	Name: Ruby Capwell            Hometown: Middleton TN        Charity Scale: 1.40%
+	Name: Elizabeth Welton        Hometown: McGehee AR          Charity Scale: 1.87%
+	Name: Bethany Qwen            Hometown: Saltillo MS         Charity Scale: 2.88%
+	Name: Teresa Pendleton        Hometown: Fulton MS           Charity Scale: 2.90%
+	Name: Rita Coldbeck           Hometown: Pasadena CA         Charity Scale: 2.95%
+	Name: Mary Rigney             Hometown: Arlington TX        Charity Scale: 2.95%
+	Name: Jamie Shiver            Hometown: Tupelo MS           Charity Scale: 3.10%
+	Name: Stephanie Hillman       Hometown: Bartlett TN         Charity Scale: 3.15%
+	Name: Clara Nutt              Hometown: Carlisle AR         Charity Scale: 3.20%
+	Name: Michelle Aycook         Hometown: Carthage MS         Charity Scale: 3.25%
+	Name: Vivian Trumbo           Hometown: Holly Springs MS    Charity Scale: 3.30%
+	Name: Kristen Gavin           Hometown: Huntsville AL       Charity Scale: 3.50%
+	Name: Jessie Hersh            Hometown: Merietta GA         Charity Scale: 3.60%
+	Name: Teri Mayor              Hometown: Baton Rouge LA      Charity Scale: 3.80%
+	Name: Rosemary Cowart         Hometown: Baton Rouge LA      Charity Scale: 3.80%
+	Name: Brittany Linn           Hometown: Kosciusko MS        Charity Scale: 3.83%
+	Name: Ruby Edkins             Hometown: Destin FL           Charity Scale: 3.90%
+	Name: Terri Smith             Hometown: Alpharetta GA       Charity Scale: 3.95%
+Charity: Zoo Nation (ZN)
+Their overall charitable score is 3.88%
+These are the 7 Donors of Zoo Nation:
+	Name: Roberta Sokol           Hometown: Tupelo MS           Charity Scale: 3.66%
+	Name: Mary Finerty            Hometown: Florence AL         Charity Scale: 3.78%
+	Name: Amanda Flanders         Hometown: Walnut Grove MS     Charity Scale: 3.88%
+	Name: Vicki Ozwalt            Hometown: Memphis TN          Charity Scale: 3.90%
+	Name: Jennifer Jones          Hometown: Greenville MS       Charity Scale: 3.92%
+	Name: Amber Longston          Hometown: Canton MS           Charity Scale: 3.99%
+	Name: Carolyn Deer            Hometown: Oxford MS           Charity Scale: 4.00%
+Charity: I Heart Yorkie's (IHY)
+Their overall charitable score is 3.45%
+These are the 15 Donors of I Heart Yorkie's:
+	Name: Thersa Cleveland        Hometown: Biloxi MS           Charity Scale: 2.95%
+	Name: Sarah Newberry          Hometown: Batesville MS       Charity Scale: 2.95%
+	Name: Kathlyn Williams        Hometown: Gulfport MS         Charity Scale: 3.10%
+	Name: Patricia Abbot          Hometown: Batesville MS       Charity Scale: 3.15%
+	Name: Charlotte Fort          Hometown: Newton MS           Charity Scale: 3.20%
+	Name: Suzanne Michael         Hometown: Merietta GA         Charity Scale: 3.25%
+	Name: Monica Sneed            Hometown: Memphis TN          Charity Scale: 3.30%
+	Name: Carrie Keener           Hometown: Bartlett TN         Charity Scale: 3.40%
+	Name: Lucy Johnson            Hometown: Newman GA           Charity Scale: 3.50%
+	Name: Beatrice Denton         Hometown: Houston MS          Charity Scale: 3.60%
+	Name: Heather Newcomb         Hometown: Vicksburg MS        Charity Scale: 3.80%
+	Name: Carolyn Olive           Hometown: Paris MS            Charity Scale: 3.80%
+	Name: Mary Elizabeth Trump    Hometown: Tyler TX            Charity Scale: 3.83%
+	Name: Tina Fonda              Hometown: Memphis TN          Charity Scale: 3.90%
+	Name: Robin Frame             Hometown: Whiteville TN       Charity Scale: 3.95%
+Charity: International Kids Movement (IKM)
+Their overall charitable score is 3.03%
+These are the 20 Donors of International Kids Movement:
+	Name: Cheryl Downs            Hometown: Canton MS           Charity Scale: 2.69%
+	Name: Elizabeth Redman        Hometown: Forest MS           Charity Scale: 2.70%
+	Name: Sharon Kerr             Hometown: Slidell LA          Charity Scale: 2.80%
+	Name: Kimberly Clark          Hometown: Corinth MS          Charity Scale: 2.80%
+	Name: Tonya Sheard            Hometown: Olive Branch MS     Charity Scale: 2.80%
+	Name: Brittany Kurz           Hometown: Cookeville TN       Charity Scale: 2.83%
+	Name: Jessica Egner           Hometown: Walnut Grove MS     Charity Scale: 2.87%
+	Name: Smantha Kell            Hometown: Irving TX           Charity Scale: 2.88%
+	Name: Alice Cooper            Hometown: Red Bay AL          Charity Scale: 2.90%
+	Name: Laura Dunphy            Hometown: Madison MS          Charity Scale: 2.95%
+	Name: Jessica Bryant          Hometown: Chattanooga TN      Charity Scale: 2.95%
+	Name: Mary Carver             Hometown: Picayune MS         Charity Scale: 2.95%
+	Name: Elizabeth Harris        Hometown: Madison MS          Charity Scale: 3.10%
+	Name: Lisa Hadfield           Hometown: Forest MS           Charity Scale: 3.15%
+	Name: Lisa Deeds              Hometown: Germantown TN       Charity Scale: 3.20%
+	Name: Juanita Sloop           Hometown: Vicksburg MS        Charity Scale: 3.25%
+	Name: Jennifer Paden          Hometown: Bruce MS            Charity Scale: 3.30%
+	Name: Nancy Vanzant           Hometown: Tyler TX            Charity Scale: 3.40%
+	Name: Sheila Rick             Hometown: Carlisle AR         Charity Scale: 3.50%
+	Name: Susanne Symons          Hometown: Santa Barbara CA    Charity Scale: 3.60%
+Charity: Mothers Against Hate (MAH)
+Their overall charitable score is 3.78%
+These are the 8 Donors of Mothers Against Hate:
+	Name: Cynthia Turngate        Hometown: LaGrange GA         Charity Scale: 3.45%
+	Name: Danielle Lantz          Hometown: Water Valley MS     Charity Scale: 3.56%
+	Name: Amanda Lombard          Hometown: Alexandria LA       Charity Scale: 3.75%
+	Name: Melissa Ashby           Hometown: Tuscaloosa AL       Charity Scale: 3.79%
+	Name: Virginia James          Hometown: Germantown TN       Charity Scale: 3.80%
+	Name: Charlotte Garza         Hometown: Germantown TN       Charity Scale: 3.86%
+	Name: Mary Moore              Hometown: Huntsville AL       Charity Scale: 3.99%
+	Name: Mary Jane Smith         Hometown: Coffeeville MS      Charity Scale: 4.00%
+Charity: Organization of Happiness (OH)
+Their overall charitable score is 1.88%
+These are the 10 Donors of Organization of Happiness:
+	Name: Monica Hooks            Hometown: Pascagoula MS       Charity Scale: 1.22%
+	Name: Valeria Knight          Hometown: Fort Worth TX       Charity Scale: 1.33%
+	Name: Melissa Johnson         Hometown: Independence MS     Charity Scale: 1.50%
+	Name: Nancy Youngblood        Hometown: Metairie LA         Charity Scale: 1.75%
+	Name: Sarah Lopez             Hometown: Dallas TX           Charity Scale: 2.00%
+	Name: Deborah Isaacs          Hometown: Lewisburg MS        Charity Scale: 2.05%
+	Name: Melissa Long            Hometown: Vero Beach FL       Charity Scale: 2.10%
+	Name: Mary Elizabeth Johnson  Hometown: Clarksdale MS       Charity Scale: 2.20%
+	Name: Kimberly McKinnon       Hometown: Pope MS             Charity Scale: 2.25%
+	Name: Laura Martin            Hometown: Little Rock AR      Charity Scale: 2.45%
+Charity: People Eating Kale (PEK)
+Their overall charitable score is 0.89%
+These are the 20 Donors of People Eating Kale:
+	Name: Carol Turner            Hometown: Sarasota FL         Charity Scale: 0.10%
+	Name: Amanda Longwell         Hometown: Tyler TX            Charity Scale: 0.20%
+	Name: Yolanda Elton           Hometown: Horn Lake MS        Charity Scale: 0.25%
+	Name: Amy Ivy                 Hometown: Germantown TN       Charity Scale: 0.30%
+	Name: Nancy Wade              Hometown: Little Rock AR      Charity Scale: 0.50%
+	Name: Rhonda McMillan         Hometown: Pascagoula MS       Charity Scale: 0.60%
+	Name: Victoria Willcox        Hometown: Amory MS            Charity Scale: 0.65%
+	Name: Carolyn Love            Hometown: Metairie LA         Charity Scale: 0.69%
+	Name: Sarah Lentz             Hometown: Vero Beach FL       Charity Scale: 0.70%
+	Name: Bethany Denny           Hometown: Biloxi MS           Charity Scale: 0.75%
+	Name: Danielle Medina         Hometown: Mobile AL           Charity Scale: 0.80%
+	Name: Carol Yates             Hometown: Carthage MS         Charity Scale: 0.80%
+	Name: Kim Graves              Hometown: Hernando MS         Charity Scale: 0.83%
+	Name: Tara Quinlan            Hometown: Destin FL           Charity Scale: 0.87%
+	Name: Maria Hernandez         Hometown: Hernando MS         Charity Scale: 0.95%
+	Name: Elizabeth Heard         Hometown: Amory MS            Charity Scale: 1.50%
+	Name: Cathy Ayers             Hometown: Madison MS          Charity Scale: 1.75%
+	Name: Esther Young            Hometown: Ripley MS           Charity Scale: 1.80%
+	Name: Monica Inman            Hometown: Pascagoula MS       Charity Scale: 1.88%
+	Name: Deborah Truitt          Hometown: Tupelo MS           Charity Scale: 1.95%
+Charity: Tomorrow's Organized People (TOP)
+Their overall charitable score is 3.17%
+These are the 21 Donors of Tomorrow's Organized People:
+	Name: Cynthia Mullin          Hometown: Gulfport MS         Charity Scale: 2.60%
+	Name: Nancy Upton             Hometown: Oxford MS           Charity Scale: 2.69%
+	Name: Amanda Oden             Hometown: Gulfport MS         Charity Scale: 2.70%
+	Name: Valerie Upton           Hometown: Ashland MS          Charity Scale: 2.80%
+	Name: Charlotte Hoffman       Hometown: Monroe LA           Charity Scale: 2.83%
+	Name: Linda Brookman          Hometown: Senatobia MS        Charity Scale: 2.87%
+	Name: Carol Vail              Hometown: Destin FL           Charity Scale: 2.88%
+	Name: Stacey Peavy            Hometown: Cleveland TN        Charity Scale: 2.90%
+	Name: Tina Enright            Hometown: Mobile AL           Charity Scale: 2.95%
+	Name: Pamela Reyes            Hometown: Corinth MS          Charity Scale: 2.95%
+	Name: Cathy Kilroy            Hometown: Bartlett TN         Charity Scale: 3.10%
+	Name: Thersa Ridgeland        Hometown: Oxford MS           Charity Scale: 3.15%
+	Name: Robin Goodspeed         Hometown: Bartlett TN         Charity Scale: 3.20%
+	Name: Laura Fitzpatrick       Hometown: Tupelo MS           Charity Scale: 3.25%
+	Name: Virginia Redman         Hometown: Pasadena CA         Charity Scale: 3.30%
+	Name: Robin Zellar            Hometown: Kosciusko MS        Charity Scale: 3.40%
+	Name: Brenda Johnston         Hometown: Mobile AL           Charity Scale: 3.50%
+	Name: Margaret Paddington     Hometown: Okolona MS          Charity Scale: 3.80%
+	Name: Laura Taft              Hometown: Kosciusko MS        Charity Scale: 3.80%
+	Name: Thersa Cronk            Hometown: Tupelo MS           Charity Scale: 3.90%
+	Name: Katie Sheppard          Hometown: Charlotte NC        Charity Scale: 3.95%
+Charity: Youth Network Opposing Tobacco (YNOT)
+Their overall charitable score is 2.43%
+These are the 15 Donors of Youth Network Opposing Tobacco:
+	Name: Elizabeth Mason         Hometown: Florence AL         Charity Scale: 2.20%
+	Name: Karen Adams             Hometown: Tupelo MS           Charity Scale: 2.22%
+	Name: Lisa Toney              Hometown: Tuscaloosa AL       Charity Scale: 2.25%
+	Name: Charlene Overton        Hometown: Senatobia MS        Charity Scale: 2.28%
+	Name: Stacey Kingman          Hometown: Vicksburg MS        Charity Scale: 2.30%
+	Name: Melissa Appel           Hometown: Picayune MS         Charity Scale: 2.33%
+	Name: Patricia Carter         Hometown: Tunica MS           Charity Scale: 2.35%
+	Name: Carol Uber              Hometown: Crystal Springs MS  Charity Scale: 2.45%
+	Name: Jess Langdon            Hometown: Tuscaloosa AL       Charity Scale: 2.45%
+	Name: Janet Parent            Hometown: Florence AL         Charity Scale: 2.49%
+	Name: Stephanie Tide          Hometown: Aberdeen MS         Charity Scale: 2.50%
+	Name: Hazle Joyce             Hometown: Senatobia MS        Charity Scale: 2.50%
+	Name: Rhonda Borden           Hometown: Oxford MS           Charity Scale: 2.65%
+	Name: Tiffany Rodgers         Hometown: Oxford MS           Charity Scale: 2.70%
+	Name: Carolyn Tracey          Hometown: Walnut MS           Charity Scale: 2.75%
+Charity: Xtremely Together (XT)
+Their overall charitable score is 2.65%
+These are the 17 Donors of Xtremely Together:
+	Name: Lindsey Voos            Hometown: Arlington TX        Charity Scale: 2.28%
+	Name: Amy Shoop               Hometown: Jasper AL           Charity Scale: 2.40%
+	Name: Rhonda Horford          Hometown: Carlisle AR         Charity Scale: 2.45%
+	Name: Robin Sing              Hometown: Alpharetta GA       Charity Scale: 2.49%
+	Name: Nancy Scott             Hometown: Mobile AL           Charity Scale: 2.50%
+	Name: Monique Seabolt         Hometown: Hazlehurst MS       Charity Scale: 2.50%
+	Name: Brittany Felder         Hometown: Irving TX           Charity Scale: 2.55%
+	Name: Amy Mock                Hometown: Carthage MS         Charity Scale: 2.60%
+	Name: Stacey Lodge            Hometown: Slidell LA          Charity Scale: 2.65%
+	Name: Katie Haydon            Hometown: Southaven MS        Charity Scale: 2.70%
+	Name: Barbara Howland         Hometown: Webb MS             Charity Scale: 2.75%
+	Name: Shannon Attwood         Hometown: Tyler TX            Charity Scale: 2.75%
+	Name: Vicki Israel            Hometown: Chattanooga TN      Charity Scale: 2.80%
+	Name: Deborah Otto            Hometown: Charlotte NC        Charity Scale: 2.83%
+	Name: Joanna Hunt             Hometown: Newman GA           Charity Scale: 2.87%
+	Name: Christina Upson         Hometown: Hernando MS         Charity Scale: 2.95%
+	Name: Janet Duval             Hometown: Vero Beach FL       Charity Scale: 3.00%
